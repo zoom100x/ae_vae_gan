@@ -95,15 +95,15 @@ AE Original vs. Reconstructed Images
 
 **Example Placeholder for VAE Output (Reconstruction & Generation):**
 
-[VAE Original vs. Reconstructed Images]
-
-[Placeholder for VAE Generated Images]
-
+VAE Original vs. Reconstructed Images
+![VAE Original vs. Reconstructed Images](Assets/VAE_screenshot.png)
+VAE Generated Images
+![VAE Generated Images](Assets/VAE_GEN_screenshot.png)
 
 **Example Placeholder for GAN Output:**
-```
-[Placeholder for GAN Generated Images at different epochs]
-```
+
+GAN Generated Images at different epochs
+![VAE Generated Images](Assets/GAN_screenshot.png)
 
 ## Link to Video Presentation
 
