@@ -18,8 +18,8 @@ To set up the environment and run this project, follow these steps:
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <repository_url> # Replace <repository_url> with the actual URL once available
-    cd Generative-Models-AE-VAE-GAN
+    git clone https://github.com/zoom100x/ae_vae_gan
+    cd ae_vae_gan
     ```
 
 2.  **Create a Python virtual environment (recommended):**
@@ -88,8 +88,6 @@ This project implements and compares the following generative models:
 
 ## Screenshots of Generated Outputs
 
-*(Screenshots will be added here after running the notebook and capturing the outputs. These will include examples of reconstructed images from AE and VAE, and generated images from VAE and GAN.)*
-
 **Example Placeholder for AE Output:**
 ```
 [Placeholder for AE Original vs. Reconstructed Images]
@@ -110,7 +108,6 @@ This project implements and compares the following generative models:
 
 A video presentation summarizing the project, models, and results can be found here:
 
-[Link to video_presentation.mp4] (Or a link to an online hosting platform if applicable)
+[Link to video_presentation.mp4]
 
-*(The `video_presentation.mp4` file should be included in the repository, or this link should point to its online location.)*
 
