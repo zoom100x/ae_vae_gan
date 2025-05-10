@@ -109,6 +109,6 @@ GAN Generated Images at different epochs
 
 A video presentation summarizing the project, models, and results can be found here:
 
-[Link to video_presentation.mp4]
+[[Link to video_presentation.mp4]](https://drive.google.com/drive/folders/1TayhX4PZo3-vOzpQ-kPehw2TxTEC-8ef?usp=sharing)
 
 
