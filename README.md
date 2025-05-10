@@ -91,7 +91,7 @@ This project implements and compares the following generative models:
 **Example Placeholder for AE Output:**
 
 AE Original vs. Reconstructed Images
-![AE Original vs. Reconstructed Images](Assets/AE_screenshot.png)
+![AE Original vs. Reconstructed Images](ae_vae_gan/blob/main/assets/AE_screenshot.png)
 
 **Example Placeholder for VAE Output (Reconstruction & Generation):**
 
