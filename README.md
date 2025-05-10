@@ -103,7 +103,7 @@ VAE Generated Images
 **Example Placeholder for GAN Output:**
 
 GAN Generated Images at different epochs
-![VAE Generated Images](Assets/GAN_screenshot.png)
+![GAN Generated Images](Assets/GAN_screenshot.png)
 
 ## Link to Video Presentation
 
